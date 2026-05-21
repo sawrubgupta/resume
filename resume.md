@@ -1,7 +1,10 @@
-# Saurabh Gupta Email : sgupta10008@gmail.com
+# Saurabh Gupta 
 
-Senior Software Engineer Mobile : +91 8302280166
+Senior Software Engineer 
+Mobile : +91 8302280166
+Email : sgupta10008@gmail.com
 Jaipur, India
+
 
 ## Experience
 
